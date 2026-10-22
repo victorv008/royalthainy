@@ -12,3 +12,4 @@ Thumbs.db
 
 # Netlify build artifacts (not needed for static site)
 .netlify/
+.vercel
